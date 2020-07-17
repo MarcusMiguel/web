@@ -8,6 +8,10 @@
     color: black;
   }
 
+  body{
+    margin-left: 2%;
+    margin-right: 2%;
+  }
 .row{
   width: 100%;
 }
